@@ -1,4 +1,4 @@
-#!/usr/bin/python27
+#!/usr/bin/python26
 # -*- coding: utf-8 -*-
 # author: yinggang1@staff.sina.com.cn
 # function: create blackhole slave of online master
